@@ -1,0 +1,1 @@
+The script takes a media folder where you have to put small 5-second clips which will be used as base data. Give your audio file and subtitle file in the input folder and you will get the final output in the output folder.

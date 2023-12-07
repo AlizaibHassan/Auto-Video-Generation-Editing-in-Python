@@ -1,0 +1,1 @@
+Takes audio.mp3 and subtitle.str as input
